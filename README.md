@@ -9,4 +9,4 @@ This repository contains a collection of code snippets and methods to create a c
 - y: Target value (activity)
 - name: Molecule name
 
-The fucntions and classes can be found in the `dataset.py` file. The `example.ipynb` notebook shows how to use them on a toy dataset.
+All fucntions and classes can be found in the `dataset.py` file. The `example.ipynb` notebook shows how to use them on a toy dataset.
